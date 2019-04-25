@@ -20,7 +20,7 @@
     "@babel/plugin-transform-typescript": "^7.4.0",
     "axios": "^0.18.0",
     "nuxt": "^2.6.1",
-    "nuxt-i18n": "^5.8.5",
+    "nuxt-i18n": "^5.9.0",
     "unfetch": "^4.1.0",
     "vue-ionicons": "^3.0.4"
   },
